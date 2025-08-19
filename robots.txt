@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://maivshop.com/sitemap.xml
